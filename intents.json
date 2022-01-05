@@ -145,6 +145,68 @@
                                 "Many prophecised the berks return. Few belivied it to be true!"
                         ],
                         "context_set": ""
+                },
+                {
+                        "tag": "codenation",
+                        "patterns": [
+                                "What is codenation?",
+                                "What do you do at codenation?",
+                                "code nation?",
+                                "who works for Code Nation?",
+                                "CodeNation",
+                                "what do you teach at CodeNation",
+                                "learn at code Nation",
+                                "programming at code nation",
+                                "software development at code nation",
+                                "what coding do you know",
+                                "software development",
+                                "what programming can you do",
+                                "what computer languages do you know",
+                                "what programming can you do",
+                                "what coding can we learn",
+                                "what programming shall we do"
+                        ],
+                        "responses": [
+                                "At CodeNation, we strive to teach you the most up-to-date, industry relevant, and important coding principals.",
+                                "Here at CodeNation, we offer a wide range of courses to get you industry-ready!",
+                                "From Python, to React, from Docker to NodeJS, at CodeNation we deliver immersive learning experiences for all levels.",
+                                "CodeNation needs you! To become the best software developer you can be!",
+                                "CodeNation: A unique, business led, digital training provider with a sole purpose of creating work ready, employable talent.",
+                                "What computer programming languages are you interested in? We teach lot's of them!"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "philosophy",
+                        "patterns": [
+                                "give me a quote",
+                                "what is life?",
+                                "philosophy?",
+                                "quote of the day?",
+                                "philosophical quote",
+                                "give me some advice",
+                                "what is my purpose",
+                                "philosophical purpose",
+                                "what is the meaning of life"
+                        ],
+                        "responses": [
+                                "42",
+                                "That which does not kill us makes us stronger.",
+                                "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
+                                "CodeNation needs you! To become the best software developer you can be!",
+                                "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.",
+                                "You must have chaos within you to give birth to a dancing star.",
+                                "Sometimes people don't want to hear the truth because they don't want their illusions destroyed.",
+                                "He who has a why to live for can bear almost any how.",
+                                "When we are tired, we are attacked by ideas we conquered long ago.",
+                                "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.",
+                                "I am a forest, and a night of dark trees: but he who is not afraid of my darkness, will find banks full of roses under my cypresses.",
+                                "Every deep thinker is more afraid of being understood than of being misunderstood.",
+                                "What, if some day or night a demon were to steal after you into your loneliest loneliness and say to you: 'This life as you now live it and have lived it, you will have to live once more and innumerable times more' ... Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? Or have you once experienced a tremendous moment when you would have answered him: 'You are a god and never have I heard anything more divine.",
+                                "A casual stroll through the lunatic asylum shows that faith does not prove anything.",
+                                "We have art in order not to die of the truth."
+                        ],
+                        "context_set": ""
                 }
         ]
 }
